@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-npm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  }
+}
